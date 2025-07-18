@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SmartMedia AI</string>
+    <string name="gemini_api_key">${GEMINI_API_KEY}</string>
+
+
+    <string name="select_video_placeholder">Select Video</string>
+    <string name="summarize_video_button">Summarize Video</string>
+    <string name="video_summarization_title">Smart AI Video summarization</string>
+    <string name="output_text_combined">%s%s</string>
+    <string name="output_text_initial">Initial</string>
+    <string name="output_text_generated_placeholder">"Text generated with Gemini : "</string>
+    <string name="output_text_loading">Loading…</string>
+    <string name="text_listen_to_ai_output">Listen to AI output</string>
+    <string name="pause">Pause</string>
+    <string name="see_code">See Code</string>
+    <string name="dropdown_content_description">Dropdown for selecting a video</string>
+
+
+
+    <!--Video titles for list of sample videos-->
+    <string name="video_title_big_buck_bunny">Big Buck Bunny</string>
+    <string name="video_title_android_spotlight_shorts">Android Spotlight Week (Shorts video)</string>
+    <string name="video_title_youtube">Youtube Link (On Device Watch)</string>
+    <string name="video_title_tears_of_steel">Tears of Steel</string>
+    <string name="video_title_for_bigger_blazes">For Bigger Blazes</string>
+    <string name="video_title_for_bigger_escape">For Bigger Escape</string>
+
+
+    <!--Image titles for list of sample Image-->
+    <string name="gen_image_description_title_bar">Image Description with Nano</string>
+    <string name="genai_image_description_add_image">Add image</string>
+    <string name="genai_image_description_run_inference">Generate image description</string>
+    <string name="genai_image_description_no_image_selected">No image selected</string>
+    <string name="genai_image_description_not_available">Feature is not available on this device</string>
+    <string name="genai_image_description_downloading">Downloading feature</string>
+
+
+</resources>
