@@ -166,7 +166,7 @@ This project is follows the **MVVM (Model-View-ViewModel)** architecture for a c
 4. Sync Gradle and run the project on a physical/emulator Android device.
 
 ## Read More
-- [AI Use Cases in Jetpack Media3 Playback in Android]([https://medium.com/@anandgaur2207](https://medium.com/@anandgaur2207/ai-use-cases-in-jetpack-media3-playback-in-android-1ef591187ab5)
+- [AI Use Cases in Jetpack Media3 Playback in Android](https://medium.com/@anandgaur2207/ai-use-cases-in-jetpack-media3-playback-in-android-1ef591187ab5)
 - [Advance Android Masterclass: Real Examples](https://www.youtube.com/@technicalanandgaur)
 
 ## ❤️ Support This Project
